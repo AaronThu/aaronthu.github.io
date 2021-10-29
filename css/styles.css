@@ -2,6 +2,7 @@ body{
     background-color: beige;
 }
 
+
 .menu > li{
     display: inline;
     margin-right: 50px;
@@ -13,4 +14,18 @@ body{
 }
 .menu > li:last-of-type {
     margin-right: 0;
+}
+
+nav a{
+    width: 100%;
+}
+@media only screen and (max-width: 1000px){
+    nav{
+        width:100%;
+    }
+ 
+    .menu > li{
+        display: flex;
+        width: 100%;
+    }
 }
