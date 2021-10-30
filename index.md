@@ -1,5 +1,7 @@
-## I'm Aaron Thunnissen
+# Who am I?
+``markdown
+- Aaron Thunnissen
+- 
 
-## My Projects
+# My Projects
 - Project 1
-- Project 2
